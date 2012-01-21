@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extensionset
+    name="Раздел Maxposter"
+    description="Joomla! extensions for Maxposter.ru">
+
+    <!-- Набор клиентских библиотек -->
+    <extension name="Раздел MaxPoster: клиентские библиотеки"
+        element="lib_maxposter"
+        type="library"
+        version="1.0.0a"
+        detailsurl="http://maxposter-ru.github.com/J-extensions/library.xml"
+    />
+    <!-- Список авто -->
+    <extension name="Раздел MaxPoster"
+        element="com_maxposter"
+        type="component"
+        version="17.0.1"
+        detailsurl="http://maxposter-ru.github.com/J-extensions/component.xml"
+    />
+    <!-- Список марок и моделей -->
+    <extension name="Раздел MaxPoster: марки-модели"
+        element="mod_maxposter_marks"
+        type="module"
+        version="17.0.1"
+        detailsurl="http://maxposter-ru.github.com/J-extensions/module_marks.xml"
+    />
+
+</extensionset>
