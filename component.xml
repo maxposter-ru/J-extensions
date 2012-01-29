@@ -51,8 +51,8 @@
         <client_id>1</client_id>
         <version>17.0.2</version>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-component/zipball/master</downloadurl>
-            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-component/get/master.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-component/zipball/1a767bf17a78c80db7ab28e5d5b51626f1fd9e93</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-component/get/1a767bf17a78c80db7ab28e5d5b51626f1fd9e93.zip</downloadurl>
         </downloads>
         <tags>
             <tag>public</tag>
@@ -72,8 +72,51 @@
         <client_id>1</client_id>
         <version>17.0.2</version>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-component/zipball/master</downloadurl>
-            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-component/get/master.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-component/zipball/1a767bf17a78c80db7ab28e5d5b51626f1fd9e93</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-component/get/1a767bf17a78c80db7ab28e5d5b51626f1fd9e93.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>public</tag>
+            <tag>stable</tag>
+        </tags>
+        <infourl title="MaxPoster">http://maxposter.ru</infourl>
+        <maintainer>Святослав Астахов</maintainer>
+        <maintainerurl>http://teleta.ru</maintainerurl>
+        <section>Component</section>
+        <targetplatform name="joomla" version="1.7" />
+    </update>
+
+    <update>
+        <name>Раздел MaxPoster</name>
+        <description>Вывод каталога авто.</description>
+        <element>com_maxposter</element>
+        <type>component</type>
+        <client_id>1</client_id>
+        <version>17.0.2</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-component/zipball/7c8969292196bf790153910b557f8dfe634a6b3a</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-component/get/7c8969292196bf790153910b557f8dfe634a6b3a.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>public</tag>
+            <tag>stable</tag>
+        </tags>
+        <infourl title="MaxPoster">http://maxposter.ru</infourl>
+        <maintainer>Святослав Астахов</maintainer>
+        <maintainerurl>http://teleta.ru</maintainerurl>
+        <section>Component</section>
+        <targetplatform name="joomla" version="1.6" />
+    </update>
+    <update>
+        <name>Раздел MaxPoster</name>
+        <description>Вывод каталога авто.</description>
+        <element>com_maxposter</element>
+        <type>component</type>
+        <client_id>1</client_id>
+        <version>17.0.2.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-component/zipball/7c8969292196bf790153910b557f8dfe634a6b3a</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-component/get/7c8969292196bf790153910b557f8dfe634a6b3a.zip</downloadurl>
         </downloads>
         <tags>
             <tag>public</tag>
