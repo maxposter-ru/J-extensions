@@ -14,7 +14,7 @@
     <extension name="Раздел MaxPoster"
         element="com_maxposter"
         type="component"
-        version="17.0.2.1"
+        version="17.0.2.2"
         detailsurl="http://maxposter-ru.github.com/J-extensions/component.xml"
     />
     <!-- Список марок и моделей -->
