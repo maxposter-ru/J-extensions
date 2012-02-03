@@ -20,10 +20,10 @@
 
     <!-- Список марок и моделей -->
     <extension name="Раздел MaxPoster: марки-модели"
-        element="mod_maxposter_marks"
+        element="mod_maxposter_manufacturers"
         type="module"
-        version="17.0.1.1"
-        detailsurl="http://maxposter-ru.github.com/J-extensions/module_marks.xml"
+        version="17.0.1"
+        detailsurl="http://maxposter-ru.github.com/J-extensions/module_manufacturers.xml"
     />
     <!-- Форма поиска -->
     <extension name="Раздел MaxPoster: форма поиска"

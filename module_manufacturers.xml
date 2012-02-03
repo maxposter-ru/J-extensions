@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <!-- 17.0.1 -->
+    <update>
+        <name>Раздел MaxPoster: марки и модели</name>
+        <description>Выводит список марок и моделей сервиса MaxPoster.</description>
+        <element>mod_maxposter_manufacturers</element>
+        <type>module</type>
+        <version>17.0.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-module-manufacturers/zipball/fc89ca91afdd3f516e0e093689817a0b8bf48db9</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-module-manufacturers/get/fc89ca91afdd3f516e0e093689817a0b8bf48db9.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>public</tag>
+            <tag>stable</tag>
+        </tags>
+        <infourl title="MaxPoster">http://maxposter.ru</infourl>
+        <maintainer>Святослав Астахов</maintainer>
+        <maintainerurl>http://teleta.ru</maintainerurl>
+        <section>Module</section>
+        <targetplatform name="joomla" version="1.6" />
+    </update>
+    <update>
+        <name>Раздел MaxPoster: марки и модели</name>
+        <description>Выводит список марок и моделей сервиса MaxPoster.</description>
+        <element>mod_maxposter_manufacturers</element>
+        <type>module</type>
+        <version>17.0.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-module-manufacturers/zipball/fc89ca91afdd3f516e0e093689817a0b8bf48db9</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-module-manufacturers/get/fc89ca91afdd3f516e0e093689817a0b8bf48db9.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>public</tag>
+            <tag>stable</tag>
+        </tags>
+        <infourl title="MaxPoster">http://maxposter.ru</infourl>
+        <maintainer>Святослав Астахов</maintainer>
+        <maintainerurl>http://teleta.ru</maintainerurl>
+        <section>Module</section>
+        <targetplatform name="joomla" version="1.7" />
+    </update>
+    <update>
+        <name>Раздел MaxPoster: марки и модели</name>
+        <description>Выводит список марок и моделей сервиса MaxPoster.</description>
+        <element>mod_maxposter_manufacturers</element>
+        <type>module</type>
+        <version>17.0.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-module-manufacturers/zipball/fc89ca91afdd3f516e0e093689817a0b8bf48db9</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-module-manufacturers/get/fc89ca91afdd3f516e0e093689817a0b8bf48db9.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>public</tag>
+            <tag>stable</tag>
+        </tags>
+        <infourl title="MaxPoster">http://maxposter.ru</infourl>
+        <maintainer>Святослав Астахов</maintainer>
+        <maintainerurl>http://teleta.ru</maintainerurl>
+        <section>Module</section>
+        <targetplatform name="joomla" version="2.5" />
+    </update>
+
+</updates>
