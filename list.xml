@@ -14,8 +14,16 @@
     <extension name="Раздел MaxPoster"
         element="com_maxposter"
         type="component"
-        version="17.0.3.2"
+        version="17.0.3.3"
         detailsurl="http://maxposter-ru.github.com/J-extensions/component.xml"
+    />
+
+    <!-- Набор авто по условиям -->
+    <extension name="Maxposter: автомобили"
+        element="mod_maxposter_vehicles"
+        type="module"
+        version="17.0.1"
+        detailsurl="http://maxposter-ru.github.com/J-extensions/module_vehicles.xml"
     />
 
     <!-- Список марок и моделей -->

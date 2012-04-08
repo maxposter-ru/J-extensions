@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+    <!-- 17.0.1 -->
+    <update>
+        <name>Maxposter: автомобили</name>
+        <description>Автомобили в наличии с фильтрацией по условиям</description>
+        <element>mod_maxposter_vehicles</element>
+        <type>module</type>
+        <version>17.0.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-module-vehicles/zipball/027900de5b8a38ffb178b4dd6d419a9545689d2b</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-module-vehicles/get/027900de5b8a38ffb178b4dd6d419a9545689d2b.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>public</tag>
+            <tag>stable</tag>
+        </tags>
+        <infourl title="MaxPoster">http://maxposter.ru</infourl>
+        <maintainer>Святослав Астахов</maintainer>
+        <maintainerurl>http://teleta.ru</maintainerurl>
+        <section>Module</section>
+        <targetplatform name="joomla" version="1.6" />
+    </update>
+    <update>
+        <name>Maxposter: автомобили</name>
+        <description>Автомобили в наличии с фильтрацией по условиям</description>
+        <element>mod_maxposter_vehicles</element>
+        <type>module</type>
+        <version>17.0.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-module-vehicles/zipball/027900de5b8a38ffb178b4dd6d419a9545689d2b</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-module-vehicles/get/027900de5b8a38ffb178b4dd6d419a9545689d2b.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>public</tag>
+            <tag>stable</tag>
+        </tags>
+        <infourl title="MaxPoster">http://maxposter.ru</infourl>
+        <maintainer>Святослав Астахов</maintainer>
+        <maintainerurl>http://teleta.ru</maintainerurl>
+        <section>Module</section>
+        <targetplatform name="joomla" version="1.7" />
+    </update>
+    <update>
+        <name>Maxposter: автомобили</name>
+        <description>Автомобили в наличии с фильтрацией по условиям</description>
+        <element>mod_maxposter_vehicles</element>
+        <type>module</type>
+        <version>17.0.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-module-vehicles/zipball/027900de5b8a38ffb178b4dd6d419a9545689d2b</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-module-vehicles/get/027900de5b8a38ffb178b4dd6d419a9545689d2b.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>public</tag>
+            <tag>stable</tag>
+        </tags>
+        <infourl title="MaxPoster">http://maxposter.ru</infourl>
+        <maintainer>Святослав Астахов</maintainer>
+        <maintainerurl>http://teleta.ru</maintainerurl>
+        <section>Module</section>
+        <targetplatform name="joomla" version="2.5" />
+    </update>
+
+</updates>
