@@ -22,7 +22,7 @@
     <extension name="Maxposter: автомобили"
         element="mod_maxposter_vehicles"
         type="module"
-        version="17.0.1"
+        version="17.0.1.2"
         detailsurl="http://maxposter-ru.github.com/J-extensions/module_vehicles.xml"
     />
 
