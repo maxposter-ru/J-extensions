@@ -14,7 +14,7 @@
     <extension name="Раздел MaxPoster"
         element="com_maxposter"
         type="component"
-        version="17.0.3.3"
+        version="17.0.3.4"
         detailsurl="http://maxposter-ru.github.com/J-extensions/component.xml"
     />
 
