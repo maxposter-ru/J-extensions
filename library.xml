@@ -62,5 +62,66 @@
         <targetplatform name="joomla" version="2.5" />
     </update>
 
+    <!-- 1.0.2.1 -->
+    <update>
+        <name>Библиотеки MaxPoster</name>
+        <description><![CDATA[Maxposter project api 1 classes]]></description>
+        <element>lib_maxposter</element>
+        <type>library</type>
+        <version>1.0.2.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-library/zipball/9e8c9efbe1b2df8640bd94e1e4241178f4349cf0</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-library/get/9e8c9efbe1b2df8640bd94e1e4241178f4349cf0.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>public</tag>
+            <tag>stable</tag>
+        </tags>
+        <infourl title="MaxPoster">http://maxposter.ru</infourl>
+        <maintainer>Святослав Астахов</maintainer>
+        <maintainerurl>http://teleta.ru</maintainerurl>
+        <section>Library</section>
+        <targetplatform name="joomla" version="1.6" />
+    </update>
+    <update>
+        <name>Библиотеки MaxPoster</name>
+        <description><![CDATA[Maxposter project api 1 classes]]></description>
+        <element>lib_maxposter</element>
+        <type>library</type>
+        <version>1.0.2.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-library/zipball/9e8c9efbe1b2df8640bd94e1e4241178f4349cf0</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-library/get/9e8c9efbe1b2df8640bd94e1e4241178f4349cf0.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>public</tag>
+            <tag>stable</tag>
+        </tags>
+        <infourl title="MaxPoster">http://maxposter.ru</infourl>
+        <maintainer>Святослав Астахов</maintainer>
+        <maintainerurl>http://teleta.ru</maintainerurl>
+        <section>Library</section>
+        <targetplatform name="joomla" version="1.7" />
+    </update>
+    <update>
+        <name>Библиотеки MaxPoster</name>
+        <description><![CDATA[Maxposter project api 1 classes]]></description>
+        <element>lib_maxposter</element>
+        <type>library</type>
+        <version>1.0.2.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/maxposter-ru/J-extension-library/zipball/9e8c9efbe1b2df8640bd94e1e4241178f4349cf0</downloadurl>
+            <downloadurl type="full" format="zip">https://bitbucket.org/maxposter/jextension-library/get/9e8c9efbe1b2df8640bd94e1e4241178f4349cf0.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>public</tag>
+            <tag>stable</tag>
+        </tags>
+        <infourl title="MaxPoster">http://maxposter.ru</infourl>
+        <maintainer>Святослав Астахов</maintainer>
+        <maintainerurl>http://teleta.ru</maintainerurl>
+        <section>Library</section>
+        <targetplatform name="joomla" version="2.5" />
+    </update>
 
 </updates>

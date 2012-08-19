@@ -7,7 +7,7 @@
     <extension name="Раздел MaxPoster: клиентские библиотеки"
         element="lib_maxposter"
         type="library"
-        version="1.0.2"
+        version="1.0.2.1"
         detailsurl="http://maxposter-ru.github.com/J-extensions/library.xml"
     />
     <!-- Список авто -->
